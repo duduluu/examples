@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UWP_Example", "UWP_Example\UWP_Example.csproj", "{4B323399-8FBC-4595-9127-A97EA9F56101}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingToStaticClassProperties", "BindingToStaticClassProperties\BindingToStaticClassProperties.csproj", "{4B323399-8FBC-4595-9127-A97EA9F56101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
